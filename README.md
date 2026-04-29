@@ -1,4 +1,4 @@
-## Hello World! I'am Rayy 👋
+## Hello World! I'am Rachmad 👋
 
 ![Banner](https://cdn.nekohime.site/file/Tqm8PUc7.jg)
 
@@ -9,14 +9,14 @@
 - 💻 Currently learning JavaScript & Node.js ecosystem
 - 🤖 Focused on building WhatsApp bots & Telegram bots
 - 🚀 Exploring automation, APIs, and backend logic
-- 📚 Always improving step by step (kaizen mindset 🔥)
+- 📚 Always improving step by step
 
 «「コードは芸術だ。」– Code is art.»
 
 ---
 
 ### 🌐 My Profile & Projects
-- 🐙 GitHub: [RayyScript](https://github.com/frachxdd)
+- 🐙 GitHub: [rachmadjs](https://github.com/rachmadjs)
 
 ---
 
